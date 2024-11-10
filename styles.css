@@ -9,8 +9,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #87ceeb; /*Light blue background */
-    /* background-image: url(./Assets/bg.jpeg); */
+    background-color: #87ceeb;
 }
 
 .game-container {
@@ -24,7 +23,6 @@ canvas {
     width: 100%;
     height: 100%;
     display: block;
-    /* background-color: #87ceeb; */
     background-image: url(../Assets/start.jpeg);
 }
 
@@ -36,7 +34,6 @@ canvas {
     color: #fff;
 }
 
-/* Start Button */
 #startButton {
     position: absolute;
     top: 50%;
@@ -44,8 +41,8 @@ canvas {
     transform: translate(-50%, -50%);
     padding: 10px 20px;
     font-size: 30px;
-    font-family: 'Harry P', serif; /* Optional: Harry Potter font, or similar */
-    background-color: #7A421A; /* Gold color */
+    font-family: 'Harry P', serif;
+    background-color: #7A421A;
     color: #F2F2F2;
     border: none;
     border-radius: 5px;
@@ -54,9 +51,9 @@ canvas {
 }
 
 #startButton:hover {
-    background-color: #a35b3b; /* A lighter burgundy shade for hover effect */
+    background-color: #a35b3b;
 }
-/* Rules Button */
+
 #rulesButton {
     position: absolute;
     top: 60%;
@@ -64,8 +61,8 @@ canvas {
     transform: translate(-50%, -50%);
     padding: 10px 20px;
     font-size: 30px;
-    font-family: 'Harry P', serif; /* Optional: Harry Potter font, or similar */
-    background-color: #7A421A; /* Gold color */
+    font-family: 'Harry P', serif;
+    background-color: #7A421A;
     color: #F2F2F2;
     border: none;
     border-radius: 5px;
@@ -74,10 +71,9 @@ canvas {
 }
 
 #rulesButton:hover {
-    background-color: #a35b3b; /* A lighter burgundy shade for hover effect */
+    background-color: #a35b3b;
 }
 
-/* Style for rules overlay */
 .rules-overlay {
     position: fixed;
     top: 0;
@@ -103,7 +99,7 @@ canvas {
 #closeRules {
     margin-top: 20px;
     padding: 10px 15px;
-    background-color: #FF6347; /* Tomato color */
+    background-color: #FF6347;
     color: white;
     border: none;
     border-radius: 5px;
@@ -117,8 +113,8 @@ canvas {
     transform: translate(-50%, -50%);
     padding: 10px 20px;
     font-size: 60px;
-    font-family: 'Harry P', serif; /* Optional: Harry Potter font, or similar */
-    background-color: #9C7D3D; /* Gold color */
+    font-family: 'Harry P', serif;
+    background-color: #9C7D3D;
     color: #F2F2F2;
     border: none;
     border-radius: 5px;
@@ -127,21 +123,21 @@ canvas {
 }
 
 .background body, .background .game-container, .background canvas {
-    background-color: #333; /* Dark background as an example */
-    background-image: url(../Assets/bg.jpeg); /* Path to your new background image */
-    transition: background 0.5s ease; /* Smooth transition */
+    background-color: #333;
+    background-image: url(../Assets/bg.jpeg);
+    transition: background 0.5s ease;
 }
 
 .new-background body, .new-background .game-container, .new-background canvas {
-    background-color: #333; /* Dark background as an example */
-    background-image: url(../Assets/Forest.jpg); /* Path to your new background image */
-    transition: background 0.5s ease; /* Smooth transition */
+    background-color: #333;
+    background-image: url(../Assets/Forest.jpg);
+    transition: background 0.5s ease;
 }
 
 .night-background body, .night-background .game-container, .night-background canvas {
-    background-color: #333; /* Dark background as an example */
-    background-image: url(../Assets/Night.jpg); /* Path to your new background image */
-    transition: background 0.5s ease; /* Smooth transition */
+    background-color: #333;
+    background-image: url(../Assets/Night.jpg);
+    transition: background 0.5s ease;
 }
 
 body, .game-container, canvas {
