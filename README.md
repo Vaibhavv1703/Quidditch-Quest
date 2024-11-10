@@ -17,7 +17,7 @@ In *Quidditch Quest*, players control a wizard navigating a side-scrolling cours
 ## Installation
 1. *Clone the Repository:*
    bash
-   git clone https://github.com/your-username/quidditch-quest.git
+   git clone https://github.com/Vaibhavv1703/quidditch-quest.git
    
 2. *Navigate to the Project Directory:*
    bash
