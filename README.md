@@ -8,8 +8,8 @@ Welcome to *Quidditch Quest*, a side-scrolling game inspired by the magical worl
 - [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Features](#features)
-- [License](#license)
 - [Deployment](#deployment-link)
+- [License](#license)
 
 ## Game Overview
 In *Quidditch Quest*, players control a wizard navigating a side-scrolling course filled with magical obstacles and challenges. As you score points by passing through hoops, you'll occasionally encounter magical monsters you need to defeat. Choose the correct spell to continue the adventure!
