@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quidditch Quest</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="gameOverlay" class="game-container">
+        <canvas id="gameCanvas"></canvas>
+        <div class="score">Score: <span id="score">0</span></div>
+        <div id="gameTitle">Welcome to Quidditch Quest!</div>
+        <button id="startButton">Start</button>
+
+        <div id="rulesOverlay" class="rules-overlay" style="display: none;">
+            <div class="rules-content">
+                <h2>Game Rules</h2>
+                <p>1. Use arrow keys or W/S to move up and down.</p>
+                <p>2. Use arrow keys or A/D to move left and right.</p>
+                <p>3. Pass through the Quidditch Hoops to score points.</p>
+                <p>4. Beware! As monsters may appear suddenly. Defeat them within the time to proceed.</p>
+                <p>5. Avoid obstacles and keep scoring!</p>
+                <button id="closeRules">Close</button>
+            </div>
+        </div>
+        
+        <button id="rulesButton">Rules</button>
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
