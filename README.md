@@ -9,6 +9,7 @@ Welcome to *Quidditch Quest*, a side-scrolling game inspired by the magical worl
 - [Controls](#controls)
 - [Features](#features)
 - [License](#license)
+- [Deployment](#deployment-link)
 
 ## Game Overview
 In *Quidditch Quest*, players control a wizard navigating a side-scrolling course filled with magical obstacles and challenges. As you score points by passing through hoops, you'll occasionally encounter magical monsters you need to defeat. Choose the correct spell to continue the adventure!
@@ -44,7 +45,8 @@ In *Quidditch Quest*, players control a wizard navigating a side-scrolling cours
 - *Interactive Rules Screen*: Learn the game mechanics before starting.
 - *Harry Potter-Themed Design*: Magical backgrounds, buttons, and colors that bring a wizardly ambiance to life.
 
-## Deployment Link: https://quidditch-quest.netlify.app/
+## Deployment Link
+https://quidditch-quest.netlify.app/
 
 
 ## License
