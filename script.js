@@ -132,7 +132,7 @@ function gameOver() {
 }
 
 const BLOCK_INTERVAL = [60, 200];
-const QUESTION_TIME_LIMIT = 5000;
+const QUESTION_TIME_LIMIT = 7500;
 
 function generateQuestion() {
     return questions[Math.floor(Math.random() * questions.length)];
