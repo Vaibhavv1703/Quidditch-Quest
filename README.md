@@ -46,7 +46,7 @@ In *Quidditch Quest*, players control a wizard navigating a side-scrolling cours
 - *Harry Potter-Themed Design*: Magical backgrounds, buttons, and colors that bring a wizardly ambiance to life.
 
 ## Deployment Link
-https://quidditch-quest.netlify.app/
+https://vaibhavv1703.github.io/Quidditch-Quest/
 
 
 ## License
